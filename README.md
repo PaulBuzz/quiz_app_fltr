@@ -1,6 +1,7 @@
 # project_two
 
-A new Flutter project.
+Frist real app build with Flutter, an MBTI quiz.
+It lacks a few features for the moment, but still works as full app.
 
 ## Getting Started
 
